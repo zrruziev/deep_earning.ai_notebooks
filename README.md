@@ -8,6 +8,7 @@
   7. [NLP Specialization](https://github.com/amanchadha/coursera-natural-language-processing-specialization)
   8. [GAN Specialization](https://github.com/amanchadha/coursera-gan-specialization)
   9. [Tensorflow: Data and Deployment Specialization](https://github.com/https-deeplearning-ai/tensorflow-2-public)
+  10. [Practical Data Scienceon AWS Specialization](https://github.com/honghanhh/coursera-practical-data-science-specialization)
 <hr>
 
 ### Books
