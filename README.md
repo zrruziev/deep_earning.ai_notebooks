@@ -8,6 +8,7 @@
 <hr>
 
 ### Extra resources
+  0. [opencv-python-official](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
   1. [tensorflow official docs](https://github.com/tensorflow/docs)
   2. [handson-ml3-book](https://github.com/ageron/handson-ml3)
   3. [deep-learning-with-python](https://github.com/fchollet/deep-learning-with-python-notebooks)
