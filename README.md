@@ -1,4 +1,4 @@
-# deep_earning.ai_notebooks
+## [DeepLearning.AI](https://www.deeplearning.ai/courses/)
 
 1. [Machine Learning Specialization](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera)
 2. [Deep Learning Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)
