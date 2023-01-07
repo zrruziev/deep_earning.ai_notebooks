@@ -18,10 +18,10 @@
 
 ### Extra resources
   1. [tensorflow official docs](https://github.com/tensorflow/docs)
-  2. [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-  3. [handson-ml3-book](https://github.com/ageron/handson-ml3)
-  4. [deep-learning-with-python](https://github.com/fchollet/deep-learning-with-python-notebooks)
-  5. [deep-learning-in-production](https://github.com/The-AI-Summer/Deep-Learning-In-Production)  
-  7. [huggingface_notebooks](https://github.com/huggingface/notebooks)
-  8. [roboflow_notebooks](https://github.com/roboflow/notebooks)    
-  9. [tf2-faster-rcnn](https://github.com/hxuaj/tf2-faster-rcnn)
+  2. [handson-ml3-book](https://github.com/ageron/handson-ml3)
+  3. [deep-learning-with-python](https://github.com/fchollet/deep-learning-with-python-notebooks)
+  4. [deep-learning-in-production](https://github.com/The-AI-Summer/Deep-Learning-In-Production)  
+  5. [huggingface_notebooks](https://github.com/huggingface/notebooks)
+  6. [roboflow_notebooks](https://github.com/roboflow/notebooks)
+  7. [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  8. [tf2-faster-rcnn](https://github.com/hxuaj/tf2-faster-rcnn)
