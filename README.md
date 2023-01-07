@@ -7,10 +7,6 @@
   6. [MLOps Specialization](https://github.com/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization)
 <hr>
 
-### Image Processing
-  1. [opencv](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-<hr>
-
 ### Extra resources
   1. [tensorflow official docs](https://github.com/tensorflow/docs)
   2. [handson-ml3-book](https://github.com/ageron/handson-ml3)
