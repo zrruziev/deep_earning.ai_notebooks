@@ -7,11 +7,6 @@
   6. [MLOps Specialization](https://github.com/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization)
 <hr>
 
-### Data Augmentation
-  1. [albumentations](https://albumentations.ai/docs/)
-  2. [imgaug](https://imgaug.readthedocs.io/en/latest/)
-<hr>
-
 ### Image Processing
   1. [opencv](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 <hr>
