@@ -23,4 +23,7 @@
   3. [huggingface_notebooks](https://github.com/huggingface/notebooks)
   4. [roboflow_notebooks](https://github.com/roboflow/notebooks)
   5. [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-  6. [tf2-faster-rcnn](https://github.com/hxuaj/tf2-faster-rcnn)
+  6. [einops](https://github.com/arogozhnikov/einops)
+<hr>
+     
+[tf2-faster-rcnn](https://github.com/hxuaj/tf2-faster-rcnn)
